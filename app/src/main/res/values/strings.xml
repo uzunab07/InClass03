@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">InClass03</string>
+    <string name="welcome">Welcome !!!</string>
+    <string name="name">Name :</string>
+    <string name="email">Email :</string>
+    <string name="id">ID :</string>
+    <string name="dept">Department :</string>
+    <string name="computer_science">Computer Science</string>
+    <string name="soft_info_sys">Software Information</string>
+    <string name="bio_info">Bio Informatics</string>
+    <string name="data_science">Data Science</string>
+    <string name="select">Select</string>
+    <string name="cancel">Cancel</string>
+    <string name="register">Register</string>
+    <string name="submit">Submit</string>
+</resources>
